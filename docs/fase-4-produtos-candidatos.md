@@ -68,7 +68,7 @@ Cada critério vale de 0 a 5. Os critérios com ★ são **eliminatórios**: not
 | Bundle/upsell | 1 | 5 | 4 | 2 |
 | Diferenciação possível | 1 | 4 | 3 | 1 |
 | Marca/recompra | 1 | 4 | 2 | 2 |
-| **Score ponderado (/85)** | | **~72** | **~48 (eliminado)** | **~47 (eliminado)** |
+| **Score ponderado (/85)** | | **73** | **50 (eliminado)** | **48 (eliminado)** |
 
 ## 4.6 Conclusão desta rodada
 - **Kit A segue para a Fase 5 (validação)**, com condições:
